@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdmissionApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="registration_form">Registration form</string>
+    <string name="view_previous_admissions">View Previous Admissions</string>
+</resources>
